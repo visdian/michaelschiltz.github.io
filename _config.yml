@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate
+title: The homepage of Michael Schiltz, financial historian & intermittent archivist
+description: What you will find here are links to projects, publications, and repositories related to the former.
+plugins:
+  - jemoji
+url: "https://michaelschiltz.github.io/"
+markdown: kramdown
